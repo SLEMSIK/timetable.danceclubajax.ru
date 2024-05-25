@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "danceclubajax",
+  "private_key_id": "0c0077b290a873f6c1c9056d81e1381861ace3aa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5K9W5CpyyyJ/A\nSRZTAD1WKzjUv5taAB6v50txEn9qUhnjz+3gVOHj36ZZOUe7SNq/kj955YoYyBBR\niv4UX0mVrdgh2XXreI04UDtLuhZmc67216TTsjfNEmi1BFdEYehwq4bMTi21oFsk\n3A7cLN9wY5SFHrmms6bXxdZNb13H0vACS0p3Z2WHKCJBkHglCYVqBHbIfG9IQfpd\nRffAWJl/KgP4VfJEUHraxtsXjMiIAIodY+rwgbemL0Qh83dY/nC3lql1Zg1BP4J0\n5IOfX5EaUu7ddMGmPYnbDeEuS2HMiig0CxF8ZM0ehLih6NyBPLNDSmvkBAyLeb7T\nBThb9gFhAgMBAAECggEAAQD7gVDyayYeoWvVWERVJFkJO/e/MzydcYdx2c3ffE4e\nQyjo0gyMa4g50j3v0Nf8SW78Bua/x1RZmlpXuANRetp6gNgyPSFP3Ngacr6rM2CV\nGjQgOfPSdds/uhSpJSVOih7+e/4ZQYv03lBOrEnEoGktO+jDmab7msEdlLlCwfB6\ni5IMO9Cg20Wpn0Gyz19ISqFvy0xUxwlFYhAqoEbqnm0vts6cuMafrki+YYiZSufr\nN0SB3AC2lvT+yepsIbwz+0FwQlXF5hXy8SAywZycJ8epGmZVtcplVl7xTWMmBE8R\n13V+5IEMERHtCdE+ERtn6Ppz6p9I//AgkvBZlZTckQKBgQDntsDLTMDczkPq0qRt\nOo7jsm16St0k6VL0A8I77/CLo8EMeCQtdzBLTv5XWgHtpyl48cwiWu0zapOji9xW\nf0fQChiaqCy3LSMhThxKBB6E3kHQbpYXgsnmTcG0RNOy73xq9vaXTwXMIMs7mt9Z\neoZrdxzt9Kp0sT+kGpRD+W7o8QKBgQDMlET61GJZQfts5a07VkEriOZgPhqHqHMj\neKM59LGGar1LeCxiRZVtHT5SCGyKw4uqu6gvQVlDy9JU/3BG68ashDf1dJQKv3Nz\nb8RNTFmrUKj6j/Wtk2fblSRXJYnn7XqYAS0u1cNE8EJ29nPNGdszhT4OJptcRsIZ\nbpCScIwfcQKBgQCxn1g+/8FAAiXyFjLRQHhUd2yQuF65ctqSD2ePhqjAgnDz3Azv\nhVRSBmXWFDsyMFgMTF6NX2JBbctrLUVkUQF9qp+dvpk4ebNaToRFAM9cTvvoiT0p\nHKskjiqUw8X8frTDUjlJV9w71E+2i0v3TYNJUe+tQUaBWXZNl8pcKRMqIQKBgQDJ\noEwH5nBzxgsVvZupQo6CaK+dJTgigYvQ5uIAicC5WNPt4KflxuzJmKvGT9UiQi2R\n/Nd6k2512hkXepXe4Bt0Be/c86PAoAYaPIp9IIWzyZBxOpcJFqGikfA6D55GPhC4\nZVhxs257sEvhUW66MwSOV4Dck4JFRNuiEw1btp7zkQKBgDFmfDFrpTaqlUqqER7R\nom43KblEDSALx/JeMzmzdCvlf3G5BsUiQaLR3+rAMnWj/8h1FqWFD0H+bnzdyqD2\nd9j3PxDUwiW0Ed1ISzKHK8OOFM5XZdBW+JNUGokM6R3MAkO/odVhtViASJp5xMdb\neisO+O/plcx2h4HGtT4YAUA+\n-----END PRIVATE KEY-----\n",
+  "client_email": "dca-admin@danceclubajax.iam.gserviceaccount.com",
+  "client_id": "109835533519131046004",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dca-admin%40danceclubajax.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
