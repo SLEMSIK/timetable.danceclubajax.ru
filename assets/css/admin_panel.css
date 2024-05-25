@@ -1,0 +1,12 @@
+.topbar {
+    background: #000000;
+    height: 65px;
+    line-height: 65px;
+    left: 0;
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    margin: 0;
+    padding: 0 0 0 65px;
+    color: white;
+}

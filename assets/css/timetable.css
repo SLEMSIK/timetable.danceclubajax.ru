@@ -1,0 +1,51 @@
+body
+{
+font-family: 'Poppins', sans-serif;
+}
+.text-bg-light .card-header
+{
+background:#ffffff !important;
+}
+.card-body{
+background:#ffffff !important;
+}
+table th,tr,td{padding:15px !important;}
+
+table th,tr,td{padding:15px !important;}
+.table-purple{background:#6c7ae0 !important;color:#fff;}
+
+
+.btn-container{
+    text-align: center;
+  }
+.day-before {
+    width: 50px;
+    height: 30px;
+    border: 1px solid rgb(65, 65, 65);
+    background-color: rgba(255, 255, 255, 0);
+    font-family: sans-serif;
+    border-radius: 5px;
+    transition: background-color 1000ms, color 1000ms;
+    display: inline-block;
+    outline: none;
+    margin-top: -100px;
+}
+
+
+.day-next {
+    width: 50px;
+    height: 30px;
+    border: 1px solid rgb(65, 65, 65);
+    background-color: rgba(255, 255, 255, 0);
+    font-family: sans-serif;
+    border-radius: 5px;
+    transition: background-color 1000ms, color 1000ms;
+    display: inline-block;
+    outline: none;
+    margin-top: -100px;
+    
+}
+
+.title{
+    margin-top: 10px;
+}
